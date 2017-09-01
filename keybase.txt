@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/microwaves
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://shitty.pizza
+  * I am microwaves (https://keybase.io/microwaves) on keybase.
+  * I have a public key ASA9evH--svyzuLTQIzwt9c70nF-QllqHAWCalEhi3TFnwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203d7af1fefacbf2cee2d3408cf0b7d73bd2717e42596a1c05826a51218b74c59f0a",
+      "host": "keybase.io",
+      "kid": "01203d7af1fefacbf2cee2d3408cf0b7d73bd2717e42596a1c05826a51218b74c59f0a",
+      "uid": "379795b098022a3c178b8b39f2680319",
+      "username": "microwaves"
+    },
+    "merkle_root": {
+      "ctime": 1504258638,
+      "hash": "5ac8a368900a8ab6219410898fbd90958689f021b712db4703a63962138fb301d73adfe7beeda1d9b74714e25e4838b8d33dcb6fde931bbfc0f0d0d7508140fc",
+      "hash_meta": "e7594fed967a43d44ed07a3bfdc62276cbd9c6aaa8638fa71be40b6b80579d52",
+      "seqno": 1361332
+    },
+    "service": {
+      "hostname": "shitty.pizza",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.28"
+  },
+  "ctime": 1504258703,
+  "expire_in": 504576000,
+  "prev": "fa0b0008aa3a18052b315c651c64002b097e4cea12d4c4e799d6d416fb3d9749",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPXrx/vrL8s7i00CM8LfXO9JxfkJZahwFgmpRIYt0xZ8Kp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwM2Q3YWYxZmVmYWNiZjJjZWUyZDM0MDhjZjBiN2Q3M2JkMjcxN2U0MjU5NmExYzA1ODI2YTUxMjE4Yjc0YzU5ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwM2Q3YWYxZmVmYWNiZjJjZWUyZDM0MDhjZjBiN2Q3M2JkMjcxN2U0MjU5NmExYzA1ODI2YTUxMjE4Yjc0YzU5ZjBhIiwidWlkIjoiMzc5Nzk1YjA5ODAyMmEzYzE3OGI4YjM5ZjI2ODAzMTkiLCJ1c2VybmFtZSI6Im1pY3Jvd2F2ZXMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDQyNTg2MzgsImhhc2giOiI1YWM4YTM2ODkwMGE4YWI2MjE5NDEwODk4ZmJkOTA5NTg2ODlmMDIxYjcxMmRiNDcwM2E2Mzk2MjEzOGZiMzAxZDczYWRmZTdiZWVkYTFkOWI3NDcxNGUyNWU0ODM4YjhkMzNkY2I2ZmRlOTMxYmJmYzBmMGQwZDc1MDgxNDBmYyIsImhhc2hfbWV0YSI6ImU3NTk0ZmVkOTY3YTQzZDQ0ZWQwN2EzYmZkYzYyMjc2Y2JkOWM2YWFhODYzOGZhNzFiZTQwYjZiODA1NzlkNTIiLCJzZXFubyI6MTM2MTMzMn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzaGl0dHkucGl6emEiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjI4In0sImN0aW1lIjoxNTA0MjU4NzAzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImZhMGIwMDA4YWEzYTE4MDUyYjMxNWM2NTFjNjQwMDJiMDk3ZTRjZWExMmQ0YzRlNzk5ZDZkNDE2ZmIzZDk3NDkiLCJzZXFubyI6NSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAh7R5UTkI84nXHs9SR93JUwLfW9rovShisyy0zel7R4vZmsY5jjjjvcvDXbl8IIOtYxqdHyD9SHF7DAu728m4PqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgFIT+MjyTr8hR9Aixpnvq8wipjNj1Ik7OCwXg1w51hp+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/microwaves
+
+==================================================================
